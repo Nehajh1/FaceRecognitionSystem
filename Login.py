@@ -8,7 +8,7 @@ from tkinter import messagebox
 
  import mysql.connector
 
-i mport os
+import os
 
 from student import Student
 
